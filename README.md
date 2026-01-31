@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br>Hey there! I'm a passionate **full-stack web developer** from **Kozhikode, Kerala, India**, building scalable websites with **Next.js, TypeScript, Prisma, Tailwind CSS**, and AI integrations.<br><br>- 💻 **Tech Stack**: Frontend (React/Next.js), Backend (Node/Prisma), Hosting (Vercel), AI/ML experiments.<br><br>Open to collaborations on **freelance web projects, AI startups, or Kerala-based ventures**! <br><br>✨ **Let's connect.** ✨<br>
+## Hey there! I'm a passionate **full-stack web developer** from **Kozhikode, Kerala, India**, building scalable websites with **Next.js, TypeScript, Prisma, Tailwind CSS**, and AI integrations.<br><br>- 💻 **Tech Stack**: Frontend (React/Next.js), Backend (Node/Prisma), Hosting (Vercel), AI/ML experiments.<br><br>Open to collaborations on **freelance web projects, AI startups, or Kerala-based ventures**! <br><br>✨ **Let's connect.** ✨<br>
 
 
 ## 🌐 Socials:
